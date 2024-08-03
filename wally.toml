@@ -1,0 +1,15 @@
+[package]
+name = "cody-nelson/commeventbatcher"
+description = "An event batcher made for Comm"
+version = "0.0.1"
+license = "MIT"
+authors = ["Cody Nelson"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = []
+include = ["README.md", "default.project.json"]
+
+[dependencies]
+t = "cody-nelson/t@1.0.0"
+Trove = "sleitnick/trove@1.1.0"
+Timer = "sleitnick/timer@1.1.2"

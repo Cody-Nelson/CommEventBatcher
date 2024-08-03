@@ -1,2 +1,2 @@
 # CommEventBatcher
- Ane vent batcher to be made for Comm
+ An event batcher to be made for Comm
